@@ -1,5 +1,3 @@
-library(dplyr)
-
   # Read archive .txt
 
 electro <- read.csv("household_power_consumption.txt", header = TRUE, 
